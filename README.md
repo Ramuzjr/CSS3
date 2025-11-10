@@ -1,2 +1,12 @@
 # CSS3
 Exercícos de CSS3
+---
+### Tecnologias
+<img align="left" title="html" width="50px" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+/>
+
+<img align="left" title="html" width="50px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+/>
+          
