@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}body{
+    background-color: bisque;
+}
+
+.contentor{
+    display: grid;
+    gap: 10px;
+    width: 60%;
+    margin: auto;
+    margin-top: 55px;
+}.grid{
+    border-radius: 5px;
+}.grid:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}.juntar-1{
+    display: grid;
+    grid-template-columns: auto 30%;
+    gap: 10px;
+}.juntar-2{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 5px;
+}.esquerda{
+    display: grid;
+    gap: 5px;
+}
+
+#nav{
+    background-color: blueviolet;width: 100%;height: 100px;
+}#header{
+    background-color: orange;height: 210px;
+}#aside{
+    background-color: brown;height: 420px;
+}#section-1{
+    background-color: burlywood;height: 204px;
+}#section-2{
+    background-color: coral;height: 204px
+}#footer{
+    background-color: green;width: 100%;height: 100px;
+}
